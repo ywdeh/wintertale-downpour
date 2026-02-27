@@ -5,7 +5,8 @@ While Wintertale is the project’s name, Downpour represents its core, heart an
 
 ### Scripts
 Majority of server functions are built with **Denizen Scripting Engine**.
-With it we maintain in-game addons, core functions and even our discord bot, Evie <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/7d1f466b-7264-4e76-8d1b-912a21378d41" />
+With it we maintain in-game addons, core functions and even our discord bot, Evie <img width="22" height="22" alt="Frame 245" src="https://github.com/user-attachments/assets/8c194a31-5fb2-498e-9be4-5b8055b87a48" />
+
 
 
 ### Addons
