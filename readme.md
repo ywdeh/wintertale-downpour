@@ -1,7 +1,6 @@
 # Wintertale Downpour
-<img width="2560" height="907" alt="banner" src="https://github.com/user-attachments/assets/74fe5904-d8bd-40ae-af25-90e8ea5a420d" />
-
 While Wintertale is a project's name, Downpour stands for it's core, internal side, a heart and soul.
+<img width="2560" height="907" alt="banner" src="https://github.com/user-attachments/assets/74fe5904-d8bd-40ae-af25-90e8ea5a420d" />
 
 ### Scripts
 Majority of server functions are built with **Denizen Scripting Engine**.
