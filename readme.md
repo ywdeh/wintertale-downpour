@@ -10,4 +10,4 @@ With it we maintain in-game addons, core functions and even our discord bot, Evi
 ### Addons
 Addons represent packs of in-game tweaks and changes. Essentially, they are scripts as well.
 These were made explicitly for the Wintertale server, but can be used by anyone as inspiration for their own creations or as addition for their own servers.
-Do not sell any of these scripts, and do not claim ownership. If possible, refer to this repository whenever you can
+**Do not sell any of these scripts, and do not claim ownership. If possible, refer to this repository whenever you can**
