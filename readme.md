@@ -1,5 +1,5 @@
 # Wintertale Downpour
-While Wintertale is the project’s name, Downpour represents its core - its heart and soul
+While Wintertale is the project’s name, Downpour represents its core, heart and soul
 
 <img width="3072" height="921" alt="banner" src="https://github.com/user-attachments/assets/dad1fd00-f92a-4c3f-b92d-1fffddcc3044" />
 
