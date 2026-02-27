@@ -15,4 +15,4 @@ These were made explicitly for the Wintertale server, but can be used by anyone 
 **Do not sell any of these scripts, and do not claim ownership. If possible, refer to this repository whenever you can**
 <br><br>
 > [!IMPORTANT]
-> Most of the non-addons scripts rely on data scripts, which are not included. Do not copy mindlessly, they might not work.
+> Most of the non-addons scripts rely on data scripts, which are not included for safety reasons. Do not copy mindlessly, they might not work.
